@@ -32,6 +32,7 @@
       "UtahCarSafety/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.23",
+          "Microsoft.EntityFrameworkCore.Analyzers": "3.1.23",
           "Microsoft.EntityFrameworkCore.Design": "3.1.23",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.23",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.23",
