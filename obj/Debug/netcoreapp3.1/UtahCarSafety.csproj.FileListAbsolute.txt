@@ -238,3 +238,8 @@
 /Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/UtahCarSafety.dll
 /Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/UtahCarSafety.pdb
 /Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/UtahCarSafety.genruntimeconfig.cache
+/Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/Razor/Views/Home/CrashScenarios.cshtml.g.cs
+/Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dataset.cshtml.g.cs
+/Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/Razor/Views/Home/KeyStats.cshtml.g.cs
+/Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/Razor/Views/Home/SeverityCalculator.cshtml.g.cs
+/Users/tylerharris/Desktop/Intex2/IntexTake2/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewStories.cshtml.g.cs
