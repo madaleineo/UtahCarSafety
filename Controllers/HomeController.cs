@@ -32,5 +32,25 @@ namespace UtahCarSafety.Controllers
         {
             return View();
         }
+        public IActionResult SeverityCalculator()
+        {
+            return View();
+        }
+        public IActionResult CrashScenarios()
+        {
+            return View();
+        }
+        public IActionResult KeyStats()
+        {
+            return View();
+        }
+        public IActionResult Dataset()
+        {
+            return View();
+        }
+        public IActionResult ViewStories()
+        {
+            return View();
+        }
     }
 }
