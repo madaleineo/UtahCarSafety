@@ -72,3 +72,4 @@
 /Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/obj/Debug/netcoreapp3.1/UtahCarSafety.pdb
 /Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/obj/Debug/netcoreapp3.1/UtahCarSafety.genruntimeconfig.cache
 /Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/obj/Debug/netcoreapp3.1/UtahCarSafety.csproj.CopyComplete
+/Users/tylerharris/Desktop/Intex2/UtahCarSafety/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
