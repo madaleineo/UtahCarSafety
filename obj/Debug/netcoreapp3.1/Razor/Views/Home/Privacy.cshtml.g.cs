@@ -13,40 +13,21 @@ namespace UtahCarSafety.Views.Home
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-<<<<<<< Updated upstream
-#line 2 "/Users/tylerharris/Desktop/Intex2/UtahCarSafety/Views/_ViewImports.cshtml"
-=======
-#line 1 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
->>>>>>> Stashed changes
+#line 2 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
 using UtahCarSafety;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< Updated upstream
-#line 3 "/Users/tylerharris/Desktop/Intex2/UtahCarSafety/Views/_ViewImports.cshtml"
-=======
-#line 2 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
->>>>>>> Stashed changes
+#line 3 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
 using UtahCarSafety.Models;
 
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 4 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
-using UtahCarSafety.Controllers;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0aa07997cef09066f0c784721652eef4b38cfb35", @"/Views/Home/Privacy.cshtml")]
-<<<<<<< Updated upstream
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6ef035aa6d61c8676ad13955a8ab3389eb89f33f", @"/Views/_ViewImports.cshtml")]
-=======
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f179cd05335ff9c038cdee58c2ecbf3cc7b01b46", @"/Views/_ViewImports.cshtml")]
->>>>>>> Stashed changes
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d1640ba5c538b56fcd158eb862be3349bf0f7aeb", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

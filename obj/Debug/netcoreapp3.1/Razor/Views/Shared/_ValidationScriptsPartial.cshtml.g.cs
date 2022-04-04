@@ -13,40 +13,21 @@ namespace UtahCarSafety.Views.Shared
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-<<<<<<< Updated upstream
-#line 2 "/Users/tylerharris/Desktop/Intex2/UtahCarSafety/Views/_ViewImports.cshtml"
-=======
-#line 1 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
->>>>>>> Stashed changes
+#line 2 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
 using UtahCarSafety;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< Updated upstream
-#line 3 "/Users/tylerharris/Desktop/Intex2/UtahCarSafety/Views/_ViewImports.cshtml"
-=======
-#line 2 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
->>>>>>> Stashed changes
+#line 3 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
 using UtahCarSafety.Models;
 
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 4 "/Users/madaleineosmun/code/junior-core/Intex2/UtahCarSafety/UtahCarSafety/Views/_ViewImports.cshtml"
-using UtahCarSafety.Controllers;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5a2a59b56ea0549b30f2b9bfacb92db68c75233d", @"/Views/Shared/_ValidationScriptsPartial.cshtml")]
-<<<<<<< Updated upstream
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6ef035aa6d61c8676ad13955a8ab3389eb89f33f", @"/Views/_ViewImports.cshtml")]
-=======
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f179cd05335ff9c038cdee58c2ecbf3cc7b01b46", @"/Views/_ViewImports.cshtml")]
->>>>>>> Stashed changes
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d1640ba5c538b56fcd158eb862be3349bf0f7aeb", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__ValidationScriptsPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("src", new global::Microsoft.AspNetCore.Html.HtmlString("~/lib/jquery-validation/dist/jquery.validate.min.js"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -75,11 +56,7 @@ using UtahCarSafety.Controllers;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
-<<<<<<< Updated upstream
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d3921", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d4206", async() => {
->>>>>>> Stashed changes
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d3999", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -93,11 +70,7 @@ using UtahCarSafety.Controllers;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n");
-<<<<<<< Updated upstream
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d4944", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d5229", async() => {
->>>>>>> Stashed changes
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2a59b56ea0549b30f2b9bfacb92db68c75233d5022", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
